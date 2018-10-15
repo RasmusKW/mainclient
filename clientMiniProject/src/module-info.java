@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ditte
+ *
+ */
+module clientMiniProject {
+}
